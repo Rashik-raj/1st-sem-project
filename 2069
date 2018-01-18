@@ -1,0 +1,18 @@
+					2069
+1)WAP to display following pattern using unformated statements.
+       K
+      wk
+     owk
+    howk
+   chowk
+  lchowk
+ ulchowk
+pulchowk
+
+2)WAP to check prime or not using function.
+
+3)WAP to find second largest no in an array entered by user.
+
+4)WAP to create array of structure named Employee with name and salary. Sort them in ascending order on the basis of salary and display.
+
+5)WAP to read integer from user untill user says 'no' and write all odd and even no in file named ODD and EVEN respectively.

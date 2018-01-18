@@ -1,0 +1,10 @@
+					2072 Chaitra
+1)WAP to check whether a no is triangular no or not.
+
+2)WAP to calculate sum of digits of a given 5-digits no entered by the user using recursive function.
+
+3)WAP to read 3*3 matrix and find the minimum integer. Replace the diagonal element by the minimum element and display it using pointer.
+
+4)WAP to read structure 'college' having name, estDate and location where estDate is an another structure having day, month and year as member. Display the records of 10 colleges.
+
+5)WAP to read information of a file named 'data.txt' and write its contents to another file 'record.txt'.
